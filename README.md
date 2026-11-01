@@ -74,18 +74,20 @@ Test credentials can be updated directly inside the respective test classes:
   
 * `src/test/java/tests/SearchTest.java`:
  ```java
-private final String VALID_EMAIL = "your_email@gmail.com";
-private final String VALID_PASSWORD = "your_password";
+  private final String VALID_EMAIL = "your_email@gmail.com";
+  private final String VALID_PASSWORD = "your_password";
 ```
 
 ▶️ How to Run the Tests
 
-Method 1: Using Eclipse IDE (Recommended)
+Method 1: 
+Using Eclipse IDE (Recommended)
 1.Clone or import this project into Eclipse as an Existing Maven Project.
 2.Right-click on testng.xml in the Package Explorer.   
 3.Select Run As ➔ TestNG Suite
 
-Method 2: Using Maven Command Line
+Method 2: 
+Using Maven Command Line
 Open your terminal in the project root directory and execute:
  ```Bash
 mvn clean test
