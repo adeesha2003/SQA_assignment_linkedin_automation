@@ -1,6 +1,6 @@
 # LinkedIn Web UI Automation Test Suite
 
-Automated functional testing suite for key user workflows on LinkedIn using **Java**, **Selenium WebDriver**, and **TestNG**[cite: 1, 2]. Built as part of **IT3153 - Software Quality Assurance** (Assignment 04) at General Sir John Kotelawala Defence University.
+Automated functional testing suite for key user workflows on LinkedIn using **Java**, **Selenium WebDriver**, and **TestNG**. 
 
 ---
 
